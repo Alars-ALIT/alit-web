@@ -1,0 +1,5 @@
+baseURL = "alars-alit.github.com/alit-web"
+languageCode = "en-us"
+title = "site"
+theme = "ananke"
+publishDir = "docs"
