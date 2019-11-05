@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://web.alit.se/categories/</loc>
+    <loc>https://web.alit.se/posts/my-first-post/</loc>
+    <lastmod>2019-11-05T14:06:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.alit.se/posts/</loc>
+    <lastmod>2019-11-05T14:06:47+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://web.alit.se/</loc>
+    <lastmod>2019-11-05T14:06:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://web.alit.se/categories/</loc>
   </url>
   
   <url>
