@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alars-alit.github.com/alit-web/categories/</loc>
+    <loc>https://web.alit.se/categories/</loc>
   </url>
   
   <url>
-    <loc>https://alars-alit.github.com/alit-web/</loc>
+    <loc>https://web.alit.se/</loc>
   </url>
   
   <url>
-    <loc>https://alars-alit.github.com/alit-web/tags/</loc>
+    <loc>https://web.alit.se/tags/</loc>
   </url>
   
 </urlset>

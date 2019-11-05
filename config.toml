@@ -1,4 +1,4 @@
-baseURL = "https://alars-alit.github.com/alit-web"
+baseURL = "https://web.alit.se"
 languageCode = "en-us"
 title = "site"
 theme = "ananke"
