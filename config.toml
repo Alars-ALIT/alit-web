@@ -1,4 +1,4 @@
-baseURL = "https://web.alit.se"
+baseURL = "https://alars-alit.github.io/alit-web"
 publishDir = "docs"
 
 title = "Notre-Dame de Paris"
