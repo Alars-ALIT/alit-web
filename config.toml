@@ -1,4 +1,4 @@
-baseURL = "http://web.alit.se"
+baseURL = "https://web.alit.se"
 publishDir = "docs"
 
 title = "Notre-Dame de Paris"
